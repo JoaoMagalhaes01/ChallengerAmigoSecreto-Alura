@@ -16,8 +16,9 @@ Aplicação simples para adicionar amigos a uma lista e realizar um sorteio alea
 - Sortear um nome aleatoriamente.  
 
 ## 🖥️ Uso
-1. Abra o `index.html` no navegador.  
-2. Digite um nome e clique em **Adicionar**.  
-3. Quando terminar, clique em **Sortear amigo**.  
+1. Faça o Download da pasta `challenge-amigo-secreto_pt-main`;
+1. Abra o `index.html` no seu navegador; 
+2. Digite um nome e clique em **Adicionar*;  
+3. Quando terminar, clique em *Sortear amigo*.  
 
-Feito como parte do **Challenge ONE - Oracle Next Education + Alura**.
+Feito como parte do *Challenge ONE - Oracle Next Education + Alura*.
